@@ -1,0 +1,173 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div>
+    <div class="col-md-2">
+        <ul class="list-group">
+            <li class="list-group-item"><a href="#" id="methods">Methods</a></li>
+            <li class="list-group-item"><a href="#" id="properties">Properties</a></li>
+            <li class="list-group-item"><a href="#" id="subscriptions">Subscriptions</a></li>
+        </ul>
+    </div>
+    <div class="col-md-10">
+        <!-- Data Attributes -->
+        <div>
+            <h2>Grid</h2>
+            <hr />
+            <h3 class="text-green">Data Attributes</h3>
+            <div class="well">
+                <div class="text-bold">&lt;div id="[ID]"</div>
+                <div class="indent-tab"><span class="text-bold">data-grid="[NAME]"</span></div>
+                <div class="indent-tab"><span class="text-bold">data-wg-ui="kendoGrid"</span><span class="text-blue"> - Kendo Widget: </span><a href="http://docs.telerik.com/kendo-ui/api/javascript/ui/grid" target="_blank">Grid</a></div>
+                <div class="indent-tab"><span class="text-bold">data-init-ui="true"</span><span class="text-blue"> - Whether to initialize the control when it loads on the DOM; Default: </span><span class="text-bold">false</span></div>
+                <div class="indent-tab"><span class="text-bold">data-url="[URL]"</span></div>
+                <div class="indent-tab"><span class="text-bold">data-serverpaging="true"</span><span class="text-blue"> - Default: </span><span class="text-bold">false</span></div>
+                <div class="indent-tab"><span class="text-bold">data-pagesize="[INT]"</span><span class="text-blue"> - Default: </span><span class="text-bold">10</span></div>
+                <div class="text-bold">&gt;&lt;/div&gt;</div>
+            </div>
+        </div>
+        <!-- End -->
+        <hr />
+        <!-- Link -->
+        <div>
+            <h3 class="text-green">Link</h3>
+            <div class="well">
+                <div class="text-bold">&lt;a</div>
+                <div class="indent-tab"><span class="text-bold">data-wg-ui="kendoGrid"</span></div>
+                <div class="indent-tab"><span class="text-bold">data-grid="[NAME]"</span></div>
+                <div class="indent-tab"><span class="text-bold">data-view="[URL]"</span></div>
+                <div class="indent-tab"><span class="text-bold">data-uid="[ID]"</span><span class="text-blue"> - extra parameter</span></div>
+                <div class="text-bold">&gt;&lt;/a&gt;</div>
+            </div>
+        </div>
+        <!--End -->
+        <hr />
+        <!-- Grid -->
+        <div data-container="grid">
+            <!-- Grid Parameters -->
+            <div class="form-group col-md-5 col-md-offset-1">
+                <h4 class="text-green">Grid Parameters</h4>
+                <br />
+                <div>
+                    <label class="col-md-3">Start Date</label>
+                    <div class="col-md-8">
+                        <input type="text" data-wg-ui="kendoDatePicker" data-param="StartDate" id="StartDate" data-init-ui="true" />
+                    </div>
+                </div>
+                <div class="clearfix">&nbsp;</div>
+                <br />
+                <div>
+                    <label class="col-md-3">End Date</label>
+                    <div class="col-md-8">
+                        <input type="text" data-wg-ui="kendoDatePicker" data-param="EndDate" data-cascadefrom="StartDate" data-init-ui="true" />
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+            <div class="form-group col-md-11 col-md-offset-1">
+                <div class="well">
+                    <div class="text-bold">&lt;input type="text" id="StartDate" name="StartDate"</div>
+                    <div class="indent-tab"><span class="text-bold">data-wg-ui="kendoDatePicker"</span></div>
+                    <div class="indent-tab"><span class="text-bold">data-init-ui="true"</span></div>
+                    <div class="indent-tab"><span class="text-bold"><span class="text-red">data-param="StartDate"</span></span><span class="text-blue"> - Add this attribute on any controls</span></div>
+                    <div class="text-bold">/&gt;</div>
+                </div>
+            </div>
+            <!-- End -->
+            <div class="clearfix">&nbsp;</div>
+            <div id="CountryGrid" data-grid="CountryGrid" data-serverpaging="false"></div>
+            <div data-container="buttons">
+                <button class="btn btn-primary" data-action="delete" data-wg-ui="modal" data-url="Grid/Delete">Delete</button>
+                <button class="btn btn-primary" data-action="toggle" data-wg-ui="modal" data-url="Grid/Toggle">Toggle</button>
+            </div>
+        </div>
+        <!-- End -->
+        <div class="clearfix"></div>
+        <br />
+        <div class="well">
+            <div class="text-bold">&lt;div data-container="grid"&gt;</div>
+            <div class="indent-tab">
+                <div class="text-bold">&lt;div id="CountryGrid"</div>
+                <div class="indent-tab">
+                    <div><span class="text-bold">data-grid="CountryGrid"</span></div>
+                    <div><span class="text-bold">data-wg-ui="kendoGrid"</span></div>
+                    <div><span class="text-bold">data-init-ui="<span class="text-red">false</span>"</span></div>
+                    <div><span class="text-bold">data-url="Grid/Data"&gt;</span></div>
+                </div>
+                <div class="text-bold">&lt;/div&gt;</div>
+                <div class="text-bold">&lt;div data-container="buttons"&gt;</div>
+                <div class="indent-tab">
+                    <div class="text-bold">&lt;button class="btn btn-primary" data-action="delete" data-wg-ui="modal" data-url="Grid/Delete"&gt;Delete&lt;/button&gt;</div>
+                    <div class="text-bold">&lt;button class="btn btn-primary" data-action="toggle" data-wg-ui="modal" data-url="Grid/Toggle"&gt;Toggle&lt;/button&gt;</div>
+                </div>
+                <div class="text-bold">&lt;/div&gt;</div>
+            </div>
+            <div class="text-bold">&lt;/div&gt;</div>
+        </div>
+        <hr />
+        <h4 class="text-green">Initialize Grid</h4>
+        <div class="well">
+            <div class="text-bold">wg('#CountryGrid).grid(c => c</div>
+            <div class="text-bold indent-tab">.dataSource('Grid/Data')</div>
+            <div class="text-bold indent-tab">.pageSize(10)</div>
+            <div class="text-bold indent-tab">.serverPaging(true),</div>
+            <div class="text-bold indent-tab">{</div>
+            <div class="indent-tab"><span class="indent-tab text-blue">// Options...</span></div>
+            <div class="indent-tab text-bold">})</div>
+        </div>
+        <hr />
+        <h4 class="text-green">Grid Table</h4>
+        <div class="well">
+            <div class="text-bold">wg('#CountryGrid).grid().table.columns('Status').each((column) => {</div>
+            <div class="text-bold indent-tab">if (column.text == 'Inactive') {</div>
+            <div class="text-bold indent-tab"><span class="indent-tab">column.row.red()</span></div>
+            <div class="text-bold indent-tab">}</div>
+            <div class="text-bold">})</div>
+        </div>
+        <hr />
+        <h4 class="text-green">Context Menu</h4>
+        <div class="well">
+            <div class="text-bold">&lt;ul id="[Id]" data-wg-ui="kendoContextMenu" data-init-ui="true"&gt;</div>
+            <div class="indent-tab">
+                <div class="text-bold">&lt;li&gt; Item 1</div>
+                <div class="indent-tab">
+                    <div class="text-bold">&lt;ul&gt;</div>
+                    <div class="indent-tab">
+                        <div class="text-bold">&lt;li&gt;</div>
+                        <div class="indent-tab">
+                            <div class="text-bold">&lt;a href="javascript:void(0)" data-view="[URL]" data-wg-ui="kendoTabStrip"&gt;Tab&lt;/a&gt;</div>
+                            <div class="text-bold">&lt;a href="javascript:void(0)" data-view="[URL]" data-action="edit" data-title="Edit" data-wg-ui="modal"&gt;Edit&lt;/a&gt;</div>
+                        </div>
+                        <div class="text-bold">&lt;/li&gt;</div>
+                    </div>
+                    <div class="text-bold">&lt;/ul&gt;</div>
+                </div>
+                <div class="text-bold">&lt;/li&gt;</div>
+            </div>
+            <div class="text-bold">&lt;/ul&gt;</div>
+        </div>
+
+        <ul id="ContextMenu" data-wg-ui="kendoContextMenu" data-init-ui="true">
+            <li>
+                Item 1
+                <ul>
+                    <li><a href="javascript:void(0)" data-url="Views/Me.html" data-wg-ui="kendoTabStrip">Tab</a></li>
+                    <li><a href="javascript:void(0)" data-view="Grid/Edit" data-action="edit" data-title="Edit Country" data-wg-ui="modal">Edit</a></li>
+                </ul>
+            </li>
+            <li>
+                Item 2
+                <ul>
+                    <li>Sub Item 1</li>
+                    <li>Sub Item 2</li>
+                    <li>Sub Item 3</li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/scripts/ts/modules/grid.js"></script>
+}

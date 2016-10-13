@@ -1,0 +1,14 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<ul id="Accordion" data-init-ui="true" data-wg-ui="kendoPanelBar" data-expandmode="multiple">
+    <li data-view="Home/Notification" data-expanded="false">Notification</li>
+    <li data-view="Home/Iframe" data-expanded="false">Iframe</li>
+    <li data-view="Home/Ajax" data-expanded="false">Ajax</li>
+    <li data-view="Home/Window" data-expanded="false">Window</li>
+</ul>
+
+@section Scripts {
+    <script src="~/scripts/ts/modules/home.js"></script>
+}

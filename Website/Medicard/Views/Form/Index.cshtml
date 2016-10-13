@@ -1,0 +1,30 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div>
+    <div class="col-md-2">
+        <ul class="list-group">
+            <li class="list-group-item"><a href="#" id="methods">Methods</a></li>
+            <li class="list-group-item"><a href="#" id="events">Events</a></li>
+            <li class="list-group-item"><a href="#" id="subscriptions">Subscriptions</a></li>
+        </ul>
+    </div>
+    <div class="col-md-10">
+        <div>
+            <h2>Form</h2>
+            <hr />
+            <h3 class="text-green">Attributes</h3>
+            <div class="well">
+                <div class="text-bold">&lt;form id="[ID]"</div>
+                <div class="indent-tab"><span class="text-bold">name="[NAME]"</span></div>
+                <div class="indent-tab"><span class="text-bold">action="[URL]"&gt;</span></div>
+                <div class="text-bold">&lt;/form&gt;</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/scripts/ts/modules/form.js"></script>
+}

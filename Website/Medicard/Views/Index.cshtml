@@ -1,0 +1,18 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<ul id="Accordion1" data-init-ui="false" data-wg-ui="kendoPanelBar">
+
+</ul>
+<br/>
+<div class="clearfix">&nbsp;</div>
+<br/>
+<ul id="Accordion2" data-init-ui="true" data-wg-ui="kendoPanelBar">
+    <li data-url="Accordion/PersonalDetails" data-expanded="false">Personal Details</li>
+    <li data-url="Accordion/ContactDetails" data-expanded="true">Contact Details</li>
+</ul>
+
+@section Scripts {
+    <script src="~/scripts/ts/modules/accordion.js"></script>
+}

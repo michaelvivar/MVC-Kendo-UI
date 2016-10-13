@@ -1,0 +1,48 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div>
+    <h2>Accordio - PanelBar</h2>
+    <hr />
+    <h3 class="text-green">Data Attributes</h3>
+    <div class="well">
+        <div class="text-bold">&lt;ul id=""</div>
+        <div class="indent-tab">
+            <div><span class="text-bold">data-wg-ui="kendoPanelBar"</span><span class="text-blue"> - Kendo Widget: </span><a href="http://docs.telerik.com/kendo-ui/api/javascript/ui/panelbar" target="_blank">PanelBar</a></div>
+            <div><span class="text-bold">data-init-ui="true"</span><span class="text-blue"> - Whether to initialize the control when it loads on the DOM; Default: </span><span class="text-bold">false</span></div>
+            <div><span class="text-bold">data-expandmode="single"</span><span class="text-blue"> - Default: </span><span class="text-bold">multiple</span></div>
+        </div>
+        <div class="text-bold">&gt;&lt;/ul&gt;</div>
+    </div>
+    <hr />
+    <h3 class="text-green">Initalize control</h3>
+    <div class="well">
+        <div class="text-bold">wg('#id').accordion(c => c.</div>
+        <div class="indent-tab">
+            <div><span class="text-bold">.expandMode('single')</span><span class="text-blue"> - Default: </span><span class="text-bold">multiple</span></div>
+            <div class="text-bold">.addItem([TITLE], [CONTENT], [EXPANDED])</div>
+        </div>
+        <div class="text-bold">})</div>
+    </div>
+</div>
+<hr />
+<div>
+    <ul id="Accordion" data-init-ui="true" data-wg-ui="kendoPanelBar" data-expandmode="single">
+        <li data-view="Accordion/Properties" data-expanded="true">Properties</li>
+        <li data-view="Accordion/Events" data-expanded="false">Events</li>
+    </ul>
+    <hr />
+    <div class="well">
+        <div class="text-bold">&lt;ul id="Accordion" data-init-ui="true" data-wg-ui="kendoPanelBar" data-expandmode="single"&gt;</div>
+        <div class="indent-tab">
+            <div class="text-bold">&lt;li data-view="Accordion/Properties" data-expanded="true"&gt;Properties&lt;/li&gt;</div>
+            <div class="text-bold">&lt;li data-view="Accordion/Events" data-expanded="false"&gt;Events&lt;/li&gt;</div>
+        </div>
+        <div class="text-bold">&lt;/ul&gt;</div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/scripts/ts/modules/accordion.js"></script>
+}

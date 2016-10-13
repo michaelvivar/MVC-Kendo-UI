@@ -1,0 +1,42 @@
+﻿[
+  {
+    "width": 30,
+    "title": " ",
+    "sortable": false,
+    "filterable": false,
+    "groupable": false,
+    "locked": true,
+    "lockable": false,
+    "menu": false,
+    "template": {
+      "data-uid": "#: Id #",
+      "type": "checkbox",
+      "name": "checkedRecords",
+      "value": "Region",
+      "tag": "input"
+    },
+    "headerTemplate": "<input type=\"checkbox\" data-action=\"checkall\" />",
+    "headerAttributes": {
+      "data-menu": false
+    }
+  },
+  {
+    "field": "Name",
+    "title": "Region",
+    "width": 400,
+    "locked": true,
+    "template": {
+      "tag": "a",
+      "text": "#: Name #"
+    }
+  },
+  {
+    "field": "Code",
+    "title": "Code"
+  },
+  {
+    "field": "Status",
+    "title": "Status",
+    "width": 200
+  }
+]

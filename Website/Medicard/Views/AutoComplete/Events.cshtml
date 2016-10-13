@@ -1,0 +1,22 @@
+﻿
+<div class="col-md-10 col-md-offset-1">
+    <div>
+        <h4 class="text-green">Change</h4>
+        <div>
+            <input type="text" id="Address" name="Address" data-wg-ui="kendoAutoComplete" data-init-ui="true" placeholder="Address" maxlength="50" />
+        </div>
+        <br />
+        <div class="well">
+            <div class="text-bold">&lt;input type="text" id="Address" name="Address"</div>
+            <div class="indent-tab"><span class="text-bold">data-wg-ui="kendoAutoComplete"</span></div>
+            <div class="indent-tab"><span class="text-bold">data-init-ui="true"</span></div>
+            <div class="indent-tab text-bold">placeholder="Address"</div>
+            <div class="indent-tab text-bold">maxlength="50"/&gt;</div>
+        </div>
+        <div class="text-bold well">
+            <div>wg('#Address').textbox().bind.change((textbox) => {</div>
+            <div class="indent-tab">alert('Value has change to: ' + textbox.value)</div>
+            <div>});</div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>WizFx</title>
+
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/kendo/2016.1.112/kendo.common.min.css" rel="stylesheet" />
+    <link href="~/Content/kendo/2016.1.112/kendo.silver.min.css" rel="stylesheet" />
+    <link href="~/Content/app.css" rel="stylesheet" />
+</head>
+<body>
+
+    <div>
+        @RenderBody()
+    </div>
+
+    @Html.Partial("_Modal")
+    <script type="text/javascript">
+        var __baseurl = 'http://localhost:8445/';
+    </script>
+    <script src="~/scripts/jquery-1.9.1.min.js"></script>
+    <script src="~/scripts/jquery.blockUI.js"></script>
+    <script src="~/scripts/kendo.all.min.js"></script>
+    <script src="~/scripts/bootstrap.min.js"></script>
+    <script src="~/scripts/underscore.min.js"></script>
+
+    <script src="~/scripts/ts/wizfx/ui/element.js"></script>
+    <script src="~/scripts/ts/wizfx/ui/cascadefrom.js"></script>
+    <script src="~/scripts/ts/wizfx/ui/kendo/_base.js"></script>
+    <script src="~/scripts/ts/wizfx/ui/kendo/accordion.js"></script>
+    <script src="~/scripts/ts/wizfx/ui/kendo/combobox.js"></script>
+    <script src="~/scripts/ts/wizfx/ui/kendo/contextmenu.js"></script>
+    <script src="~/scripts/ts/wizfx/ui/kendo/datepicker.js"></script>
+    <script src="~/scripts/ts/wizfx/ui/kendo/fileupload.js"></script>
+    <script src="~/scripts/ts/wizfx/ui/kendo/grid.js"></script>
+    <script src="~/scripts/ts/wizfx/ui/kendo/masked-textbox.js"></script>
+    <script src="~/scripts/ts/wizfx/ui/kendo/multiselect.js"></script>
+    <script src="~/scripts/ts/wizfx/ui/kendo/numeric-textbox.js"></script>
+    <script src="~/scripts/ts/wizfx/ui/kendo/tabstrip.js"></script>
+    <script src="~/scripts/ts/wizfx/ui/kendo/textbox.js"></script>
+    <script src="~/scripts/ts/wizfx/ui/bootstrap/dual-listbox.js"></script>
+    <script src="~/scripts/ts/wizfx/ui/bootstrap/modal.js"></script>
+    <script src="~/scripts/ts/wizfx/ui/html/form.js"></script>
+    <script src="~/scripts/ts/wizfx/ui/html/iframe.js"></script>
+    <script src="~/scripts/ts/wizfx/ui/html/label.js"></script>
+    <script src="~/scripts/ts/wizfx/ui/html/notification.js"></script>
+    <script src="~/scripts/ts/wizfx/util.js"></script>
+    <script src="~/scripts/ts/wizfx/config.js"></script>
+    <script src="~/scripts/ts/wizfx/window.js"></script>
+    <script src="~/scripts/ts/wizfx/bind.js"></script>
+    <script src="~/scripts/ts/wizfx/ajax.js"></script>
+    <script src="~/scripts/ts/wizfx/wg.js"></script>
+    <script src="~/scripts/ts/wizfx/app.js"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

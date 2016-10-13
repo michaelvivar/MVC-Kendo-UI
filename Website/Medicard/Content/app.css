@@ -1,0 +1,118 @@
+﻿body {
+    font-family: 'Segoe UI', sans-serif;
+    display: none;
+    font-size: 14px;
+}
+
+span {
+    font-style: italic;
+}
+
+#wgModal .modal-container .modal-body {
+    min-height: 200px;
+}
+
+.modal {
+    overflow: hidden !important;
+}
+
+.modal-lg {
+    width: 900px;
+}
+
+.modal-md {
+    width: 600px;
+}
+
+.modal-sm {
+    width: 300px;
+}
+
+select {
+	border: solid 1px #dbdbde;
+	border-radius: 4px;
+}
+
+#wgNotification {
+	padding: 15px 0;
+	z-index: 2000;
+	position: fixed;
+	top: 0;
+	color: #FFF;
+	width: 100%;
+}
+
+.k-grid .k-state-selected a {
+	color: #FFFFFF;
+}
+
+.k-grid .k-state-checked {
+	font-weight: bold !important;
+}
+
+#k-grid-content {
+	overflow-x: hidden;
+}
+
+.k-grid .k-grid-header-wrap > table, /* header table */
+.k-grid .k-grid-content > table, /* data table, no virtual scrolling */
+.k-grid .k-virtual-scrollable-wrap > table /* data table, with virtual scrolling */
+{
+	min-width: 100%;
+}
+
+
+
+ .k-textbox, .k-datepicker, .k-datetimepicker, .k-timepicker, .k-combobox, .k-numerictextbox, .k-autocomplete {
+     width: 100%;
+ }
+
+#wgTab {
+	background-color: transparent;
+	border-style: none;
+}
+#wgTab:focus {
+	box-shadow: none;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+	
+}
+ 
+#wgTab > .k-content {
+	padding: 0.3em 0;
+	border-left: none;
+	border-right: none;
+	border-bottom: none;
+}
+
+.text-red a, .text-red {
+    color: #d9534f;
+}
+
+.text-blue {
+    color: #5bc0de;
+}
+
+.text-green {
+    color: #4cae4c;
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
+.indent-tab {
+    padding-left: 30px;
+}
+
+div[data-container="buttons"] {
+    margin-top: 10px;
+}
+
+.inline {
+    display: inline !important;
+}
+
+.error-field {
+    border-color: #d9534f !important;
+}

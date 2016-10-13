@@ -1,0 +1,103 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div>
+    <div class="col-md-2">
+        <ul class="list-group">
+            <li class="list-group-item"><a href="#" id="methods">Methods</a></li>
+            <li class="list-group-item"><a href="#" id="subscriptions">Subscriptions</a></li>
+        </ul>
+    </div>
+    <div class="col-md-10">
+        <div>
+            <h2>Modal</h2>
+            <hr />
+            <h3 class="text-green">Link</h3>
+            <div class="well">
+                <div class="text-bold">&lt;a</div>
+                <div class="indent-tab"><span class="text-bold">data-wg-ui="modal"</span></div>
+                <div class="indent-tab"><span class="text-bold">data-width="modal-lg"</span><span class="text-blue"> or </span><span class="text-bold">data-modal-width="modal-lg"</span><span class="text-blue"> - Default: </span><span class="text-bold">modal-md</span></div>
+                <div class="indent-tab"><span class="text-bold">data-title="[TITLE]"</span><span class="text-blue"> or </span><span class="text-bold">data-modal-title="[TITLE]"</span></div>
+                <div class="indent-tab"><span class="text-bold">data-action="[ACTION]"</span><span class="text-blue"> - add, edit, delete, toggle</span></div>
+                <div class="indent-tab"><span class="text-bold">data-view="[URL]"</span></div>
+                <div class="indent-tab"><span class="text-bold">data-uid="[ID]"</span><span class="text-blue"> - extra parameter</span></div>
+                <div class="text-bold">&gt;&lt;/a&gt;</div>
+            </div>
+            <h3 class="text-green">Button</h3>
+            <div class="well">
+                <div class="text-bold">&lt;button</div>
+                <div class="indent-tab"><span class="text-bold">data-wg-ui="modal"</span></div>
+                <div class="indent-tab"><span class="text-bold">data-width="modal-lg"</span><span class="text-blue"> or </span><span class="text-bold">data-modal-width="modal-lg"</span><span class="text-blue"> - Default: </span><span class="text-bold">modal-md</span></div>
+                <div class="indent-tab"><span class="text-bold">data-title="[TITLE]"</span><span class="text-blue"> or </span><span class="text-bold">data-modal-title="[TITLE]"</span></div>
+                <div class="indent-tab"><span class="text-bold">data-action="[ACTION]"</span><span class="text-blue"> - add, edit, delete, toggle</span></div>
+                <div class="indent-tab"><span class="text-bold">data-view="[URL]"</span></div>
+                <div class="indent-tab"><span class="text-bold">data-uid="[ID]"</span><span class="text-blue"> - extra parameter</span></div>
+                <div class="text-bold">&gt;&lt;/button&gt;</div>
+            </div>
+            <div class="col-md-offset-1 col-md-10">
+                <div>
+                    <div>
+                        <button data-wg-ui="modal" data-width="modal-md" data-title="Create" data-action="add" data-view="Modal/Create" class="btn btn-primary">Add</button>
+                    </div>
+                    <br />
+                    <div class="well">
+                        <div class="text-bold">&lt;button</div>
+                        <div class="indent-tab"><span class="text-bold">data-wg-ui="modal"</span></div>
+                        <div class="indent-tab"><span class="text-bold">data-width="modal-md"</span></div>
+                        <div class="indent-tab"><span class="text-bold">data-title="Create"</span></div>
+                        <div class="indent-tab"><span class="text-bold">data-action="add"</span></div>
+                        <div class="indent-tab"><span class="text-bold">data-view="Modal/Create"</span></div>
+                        <div class="text-bold">&gt;&lt;/button&gt;</div>
+                    </div>
+                </div>
+                <hr />
+                <div>
+                    <h4 class="text-green">Initialize modal</h4>
+                    <div class="well">
+                        <div class="text-bold">wg.modal(c => c</div>
+                        <div class="indent-tab"><span class="text-bold">.title('[TITLE]')</span></div>
+                        <div class="indent-tab"><span class="text-bold">.width('modal-md')</span></div>
+                        <div class="indent-tab"><span class="text-bold">.button('[TEXT]', () => {</span></div>
+                        <div class="indent-tab"><span class="indent-tab text-blue">// codes... </span></div>
+                        <div class="indent-tab"><span class="text-bold">}).open()</span></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+        <div>
+            <h2>Alert</h2>
+            <hr />
+            <div><button id="Alert" class="btn btn-danger">Alert</button></div>
+            <br />
+            <div class="well">
+                <div class="text-bold">wg.alert('Alert Message', () => {</div>
+                <div class="indent-tab text-blue">// callback</div>
+                <div class="text-bold">}, 'Alert!');</div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+        <div>
+            <h2>Confirm</h2>
+            <hr />
+            <div><button id="Confirm" class="btn btn-warning">Confirm</button></div>
+            <br />
+            <div class="well">
+                <div class="text-bold">wg.confirm('Confirm Message', (bool) => {</div>
+                <div class="indent-tab text-bold">if (bool) {</div>
+                <div class="indent-tab text-blue"><span class="indent-tab">// if user clicked</span> <span class="text-bold text-red">Yes</span></div>
+                <div class="indent-tab text-bold">} else {</div>
+                <div class="indent-tab text-blue"><span class="indent-tab">// if user clicked</span> <span class="text-bold text-red">No</span></div>
+                <div class="indent-tab text-bold">}</div>
+                <div class="text-bold">}, 'Confirm!');</div>
+            </div>
+        </div>
+        <hr />
+    </div>
+</div>
+
+
+@section Scripts {
+    <script src="~/scripts/ts/modules/modal.js"></script>
+}

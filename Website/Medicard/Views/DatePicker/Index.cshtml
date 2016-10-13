@@ -1,0 +1,72 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div>
+    <div class="col-md-2">
+        <ul class="list-group">
+            <li class="list-group-item"><a href="#" id="methods">Methods</a></li>
+            <li class="list-group-item"><a href="#" id="properties">Properties</a></li>
+            <li class="list-group-item"><a href="#" id="events">Events</a></li>
+        </ul>
+    </div>
+    <div class="col-md-10">
+        <div>
+            <h2>Date Picker</h2>
+            <hr />
+            <h3 class="text-green">Data Attributes</h3>
+            <div class="well">
+                <div class="text-bold">&lt;input type="text" id="" name=""</div>
+                <div class="indent-tab">
+                    <div><span class="text-bold">data-wg-ui="kendoDatePicker"</span><span class="text-blue"> - Kendo Widget: </span><a href="http://docs.telerik.com/kendo-ui/api/javascript/ui/datepicker" target="_blank">DatePicker</a></div>
+                    <div><span class="text-bold">data-init-ui="true"</span><span class="text-blue"> - Whether to initialize the control when it loads on the DOM; Default: </span><span class="text-bold">false</span></div>
+                    <div><span class="text-bold">data-readonly="true"</span><span class="text-blue"> - Default: </span><span class="text-bold">false</span></div>
+                    <div><span class="text-bold">data-format="#,###"</span></div>
+                    <div><span class="text-bold">data-parseformats="[FORMATS]"</span></div>
+                    <div><span class="text-bold">data-cascadefrom="[ID]"/&gt;</span></div>
+                    <div><span class="text-bold">maxlength="[INT]"/&gt;</span></div>
+                </div>
+            </div>
+        </div>
+        <hr />
+        <div>
+            <h2>DateTime Picker</h2>
+            <hr />
+            <h3 class="text-green">Data Attributes</h3>
+            <div class="well">
+                <div class="text-bold">&lt;input type="text" id="" name=""</div>
+                <div class="indent-tab">
+                    <div><span class="text-bold">data-wg-ui="kendoDateTimePicker"</span><span class="text-blue"> - Kendo Widget: </span><a href="http://docs.telerik.com/kendo-ui/api/javascript/ui/datetimepicker" target="_blank">DateTimePicker</a></div>
+                    <div><span class="text-bold">data-init-ui="true"</span><span class="text-blue"> - Whether to initialize the control when it loads on the DOM; Default: </span><span class="text-bold">false</span></div>
+                    <div><span class="text-bold">data-readonly="true"</span><span class="text-blue"> - Default: </span><span class="text-bold">false</span></div>
+                    <div><span class="text-bold">data-format="#,###"</span></div>
+                    <div><span class="text-bold">data-parseformats="[FORMATS]"</span></div>
+                    <div><span class="text-bold">data-cascadefrom="[ID]"/&gt;</span></div>
+                    <div><span class="text-bold">maxlength="[INT]"/&gt;</span></div>
+                </div>
+            </div>
+        </div>
+        <hr />
+        <div>
+            <h2>Time Picker</h2>
+            <hr />
+            <h3 class="text-green">Data Attributes</h3>
+            <div class="well">
+                <div class="text-bold">&lt;input type="text" id="" name=""</div>
+                <div class="indent-tab">
+                    <div><span class="text-bold">data-wg-ui="kendoTimePicker"</span><span class="text-blue"> - Kendo Widget: </span><a href="http://docs.telerik.com/kendo-ui/api/javascript/ui/timepicker" target="_blank">TimePicker</a></div>
+                    <div><span class="text-bold">data-init-ui="true"</span><span class="text-blue"> - Whether to initialize the control when it loads on the DOM; Default: </span><span class="text-bold">false</span></div>
+                    <div><span class="text-bold">data-readonly="true"</span><span class="text-blue"> - Default: </span><span class="text-bold">false</span></div>
+                    <div><span class="text-bold">data-format="#,###"</span></div>
+                    <div><span class="text-bold">data-interval="[MINS]"</span></div>
+                    <div><span class="text-bold">data-cascadefrom="[ID]"/&gt;</span></div>
+                    <div><span class="text-bold">maxlength="[INT]"/&gt;</span></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/scripts/ts/modules/datepicker.js"></script>
+}

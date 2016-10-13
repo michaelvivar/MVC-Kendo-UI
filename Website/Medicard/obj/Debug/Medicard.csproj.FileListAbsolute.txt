@@ -1,0 +1,230 @@
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\ApplicationInsights.config
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\roslyn\csc.exe
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\roslyn\vbc.exe
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\roslyn\VBCSCompiler.exe
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\Medicard.dll.config
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\Medicard.dll
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\Medicard.pdb
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\Microsoft.AI.Web.dll
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\Microsoft.ApplicationInsights.dll
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\System.Web.Helpers.dll
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\System.Web.Mvc.dll
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\System.Web.Razor.dll
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\System.Web.Webpages.Deployment.dll
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\System.Web.Webpages.dll
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\System.Web.Webpages.Razor.dll
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\Microsoft.AI.Web.xml
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\Microsoft.ApplicationInsights.xml
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\System.Web.Razor.xml
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\System.Web.Webpages.xml
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\System.Web.Webpages.Deployment.xml
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\System.Web.Webpages.Razor.xml
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\System.Web.Helpers.xml
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\bin\System.Web.Mvc.xml
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\obj\Debug\Medicard.csprojResolveAssemblyReference.cache
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\obj\Debug\Medicard.dll
+C:\Users\micha\Desktop\New folder\MedicardProject\WizFx2016\Website\Medicard\obj\Debug\Medicard.pdb
+C:\Users\micha\Desktop\Website\Medicard\bin\ApplicationInsights.config
+C:\Users\micha\Desktop\Website\Medicard\bin\roslyn\csc.exe
+C:\Users\micha\Desktop\Website\Medicard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\micha\Desktop\Website\Medicard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\micha\Desktop\Website\Medicard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\micha\Desktop\Website\Medicard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\micha\Desktop\Website\Medicard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\micha\Desktop\Website\Medicard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\micha\Desktop\Website\Medicard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\micha\Desktop\Website\Medicard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\micha\Desktop\Website\Medicard\bin\roslyn\vbc.exe
+C:\Users\micha\Desktop\Website\Medicard\bin\roslyn\VBCSCompiler.exe
+C:\Users\micha\Desktop\Website\Medicard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\micha\Desktop\Website\Medicard\bin\Medicard.dll.config
+C:\Users\micha\Desktop\Website\Medicard\bin\Medicard.dll
+C:\Users\micha\Desktop\Website\Medicard\bin\Medicard.pdb
+C:\Users\micha\Desktop\Website\Medicard\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\micha\Desktop\Website\Medicard\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\micha\Desktop\Website\Medicard\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\micha\Desktop\Website\Medicard\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\micha\Desktop\Website\Medicard\bin\Microsoft.AI.Web.dll
+C:\Users\micha\Desktop\Website\Medicard\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\micha\Desktop\Website\Medicard\bin\Microsoft.ApplicationInsights.dll
+C:\Users\micha\Desktop\Website\Medicard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\micha\Desktop\Website\Medicard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\micha\Desktop\Website\Medicard\bin\System.Web.Helpers.dll
+C:\Users\micha\Desktop\Website\Medicard\bin\System.Web.Mvc.dll
+C:\Users\micha\Desktop\Website\Medicard\bin\System.Web.Razor.dll
+C:\Users\micha\Desktop\Website\Medicard\bin\System.Web.Webpages.Deployment.dll
+C:\Users\micha\Desktop\Website\Medicard\bin\System.Web.Webpages.dll
+C:\Users\micha\Desktop\Website\Medicard\bin\System.Web.Webpages.Razor.dll
+C:\Users\micha\Desktop\Website\Medicard\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\micha\Desktop\Website\Medicard\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\micha\Desktop\Website\Medicard\bin\Microsoft.AI.Web.xml
+C:\Users\micha\Desktop\Website\Medicard\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\micha\Desktop\Website\Medicard\bin\Microsoft.ApplicationInsights.xml
+C:\Users\micha\Desktop\Website\Medicard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\micha\Desktop\Website\Medicard\bin\System.Web.Razor.xml
+C:\Users\micha\Desktop\Website\Medicard\bin\System.Web.Webpages.xml
+C:\Users\micha\Desktop\Website\Medicard\bin\System.Web.Webpages.Deployment.xml
+C:\Users\micha\Desktop\Website\Medicard\bin\System.Web.Webpages.Razor.xml
+C:\Users\micha\Desktop\Website\Medicard\bin\System.Web.Helpers.xml
+C:\Users\micha\Desktop\Website\Medicard\bin\System.Web.Mvc.xml
+C:\Users\micha\Desktop\Website\Medicard\obj\Debug\Medicard.csprojResolveAssemblyReference.cache
+C:\Users\micha\Desktop\Website\Medicard\obj\Debug\Medicard.dll
+C:\Users\micha\Desktop\Website\Medicard\obj\Debug\Medicard.pdb
+D:\WizFx\Website\Medicard\bin\ApplicationInsights.config
+D:\WizFx\Website\Medicard\bin\roslyn\csc.exe
+D:\WizFx\Website\Medicard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WizFx\Website\Medicard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WizFx\Website\Medicard\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WizFx\Website\Medicard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WizFx\Website\Medicard\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WizFx\Website\Medicard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WizFx\Website\Medicard\bin\roslyn\System.Collections.Immutable.dll
+D:\WizFx\Website\Medicard\bin\roslyn\System.Reflection.Metadata.dll
+D:\WizFx\Website\Medicard\bin\roslyn\vbc.exe
+D:\WizFx\Website\Medicard\bin\roslyn\VBCSCompiler.exe
+D:\WizFx\Website\Medicard\bin\roslyn\VBCSCompiler.exe.config
+D:\WizFx\Website\Medicard\bin\Medicard.dll.config
+D:\WizFx\Website\Medicard\bin\Medicard.dll
+D:\WizFx\Website\Medicard\bin\Medicard.pdb
+D:\WizFx\Website\Medicard\bin\Microsoft.AI.Agent.Intercept.dll
+D:\WizFx\Website\Medicard\bin\Microsoft.AI.DependencyCollector.dll
+D:\WizFx\Website\Medicard\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\WizFx\Website\Medicard\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\WizFx\Website\Medicard\bin\Microsoft.AI.Web.dll
+D:\WizFx\Website\Medicard\bin\Microsoft.AI.WindowsServer.dll
+D:\WizFx\Website\Medicard\bin\Microsoft.ApplicationInsights.dll
+D:\WizFx\Website\Medicard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WizFx\Website\Medicard\bin\Microsoft.Web.Infrastructure.dll
+D:\WizFx\Website\Medicard\bin\System.Web.Helpers.dll
+D:\WizFx\Website\Medicard\bin\System.Web.Mvc.dll
+D:\WizFx\Website\Medicard\bin\System.Web.Razor.dll
+D:\WizFx\Website\Medicard\bin\System.Web.Webpages.Deployment.dll
+D:\WizFx\Website\Medicard\bin\System.Web.Webpages.dll
+D:\WizFx\Website\Medicard\bin\System.Web.Webpages.Razor.dll
+D:\WizFx\Website\Medicard\bin\Microsoft.AI.DependencyCollector.xml
+D:\WizFx\Website\Medicard\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\WizFx\Website\Medicard\bin\Microsoft.AI.Web.xml
+D:\WizFx\Website\Medicard\bin\Microsoft.AI.WindowsServer.xml
+D:\WizFx\Website\Medicard\bin\Microsoft.ApplicationInsights.xml
+D:\WizFx\Website\Medicard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WizFx\Website\Medicard\bin\System.Web.Razor.xml
+D:\WizFx\Website\Medicard\bin\System.Web.Webpages.xml
+D:\WizFx\Website\Medicard\bin\System.Web.Webpages.Deployment.xml
+D:\WizFx\Website\Medicard\bin\System.Web.Webpages.Razor.xml
+D:\WizFx\Website\Medicard\bin\System.Web.Helpers.xml
+D:\WizFx\Website\Medicard\bin\System.Web.Mvc.xml
+D:\WizFx\Website\Medicard\obj\Debug\Medicard.csprojResolveAssemblyReference.cache
+D:\WizFx\Website\Medicard\obj\Debug\Medicard.dll
+D:\WizFx\Website\Medicard\obj\Debug\Medicard.pdb
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\ApplicationInsights.config
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\roslyn\csc.exe
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\roslyn\vbc.exe
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\roslyn\VBCSCompiler.exe
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\Medicard.dll.config
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\Medicard.dll
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\Medicard.pdb
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\Microsoft.AI.Web.dll
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\System.Web.Helpers.dll
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\System.Web.Mvc.dll
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\System.Web.Razor.dll
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\System.Web.Webpages.Deployment.dll
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\System.Web.Webpages.dll
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\System.Web.Webpages.Razor.dll
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\Microsoft.AI.Web.xml
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\System.Web.Razor.xml
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\System.Web.Webpages.xml
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\System.Web.Webpages.Deployment.xml
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\System.Web.Webpages.Razor.xml
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\System.Web.Helpers.xml
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\bin\System.Web.Mvc.xml
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\obj\Debug\Medicard.csprojResolveAssemblyReference.cache
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\obj\Debug\Medicard.dll
+C:\Users\MIKE\Desktop\Work\WizFx\Website\Medicard\obj\Debug\Medicard.pdb
+Z:\Work\Website\Medicard\bin\ApplicationInsights.config
+Z:\Work\Website\Medicard\bin\roslyn\csc.exe
+Z:\Work\Website\Medicard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Work\Website\Medicard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Work\Website\Medicard\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Work\Website\Medicard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Work\Website\Medicard\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Work\Website\Medicard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Work\Website\Medicard\bin\roslyn\System.Collections.Immutable.dll
+Z:\Work\Website\Medicard\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Work\Website\Medicard\bin\roslyn\vbc.exe
+Z:\Work\Website\Medicard\bin\roslyn\VBCSCompiler.exe
+Z:\Work\Website\Medicard\bin\roslyn\VBCSCompiler.exe.config
+Z:\Work\Website\Medicard\bin\Medicard.dll.config
+Z:\Work\Website\Medicard\bin\Medicard.dll
+Z:\Work\Website\Medicard\bin\Medicard.pdb
+Z:\Work\Website\Medicard\bin\Microsoft.AI.Agent.Intercept.dll
+Z:\Work\Website\Medicard\bin\Microsoft.AI.DependencyCollector.dll
+Z:\Work\Website\Medicard\bin\Microsoft.AI.PerfCounterCollector.dll
+Z:\Work\Website\Medicard\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Z:\Work\Website\Medicard\bin\Microsoft.AI.Web.dll
+Z:\Work\Website\Medicard\bin\Microsoft.AI.WindowsServer.dll
+Z:\Work\Website\Medicard\bin\Microsoft.ApplicationInsights.dll
+Z:\Work\Website\Medicard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Work\Website\Medicard\bin\Microsoft.Web.Infrastructure.dll
+Z:\Work\Website\Medicard\bin\System.Web.Helpers.dll
+Z:\Work\Website\Medicard\bin\System.Web.Mvc.dll
+Z:\Work\Website\Medicard\bin\System.Web.Razor.dll
+Z:\Work\Website\Medicard\bin\System.Web.Webpages.Deployment.dll
+Z:\Work\Website\Medicard\bin\System.Web.Webpages.dll
+Z:\Work\Website\Medicard\bin\System.Web.Webpages.Razor.dll
+Z:\Work\Website\Medicard\bin\Microsoft.AI.DependencyCollector.xml
+Z:\Work\Website\Medicard\bin\Microsoft.AI.ServerTelemetryChannel.xml
+Z:\Work\Website\Medicard\bin\Microsoft.AI.Web.xml
+Z:\Work\Website\Medicard\bin\Microsoft.AI.WindowsServer.xml
+Z:\Work\Website\Medicard\bin\Microsoft.ApplicationInsights.xml
+Z:\Work\Website\Medicard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Work\Website\Medicard\bin\System.Web.Razor.xml
+Z:\Work\Website\Medicard\bin\System.Web.Webpages.xml
+Z:\Work\Website\Medicard\bin\System.Web.Webpages.Deployment.xml
+Z:\Work\Website\Medicard\bin\System.Web.Webpages.Razor.xml
+Z:\Work\Website\Medicard\bin\System.Web.Helpers.xml
+Z:\Work\Website\Medicard\bin\System.Web.Mvc.xml
+Z:\Work\Website\Medicard\obj\Debug\Medicard.csprojResolveAssemblyReference.cache
+Z:\Work\Website\Medicard\obj\Debug\Medicard.dll
+Z:\Work\Website\Medicard\obj\Debug\Medicard.pdb

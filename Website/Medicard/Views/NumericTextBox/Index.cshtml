@@ -1,0 +1,55 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div>
+    <div class="col-md-2">
+        <ul class="list-group">
+            <li class="list-group-item"><a href="#" id="methods">Methods</a></li>
+            <li class="list-group-item"><a href="#" id="properties">Properties</a></li>
+            <li class="list-group-item"><a href="#" id="events">Events</a></li>
+        </ul>
+    </div>
+    <div class="col-md-10">
+        <h2>Numeric TextBox</h2>
+        <hr/>
+        <h3 class="text-green">Data Attributes</h3>
+        <div class="well">
+            <div class="text-bold">&lt;input type="text" id="" name=""</div>
+            <div class="indent-tab">
+                <div><span class="text-bold">data-wg-ui="kendoNumericTextBox"</span><span class="text-blue"> - Kendo Widget: </span><a href="http://docs.telerik.com/kendo-ui/api/javascript/ui/numerictextbox" target="_blank">NumericTextBox</a></div>
+                <div><span class="text-bold">data-init-ui="true"</span><span class="text-blue"> - Whether to initialize the control when it loads on the DOM; Default: </span><span class="text-bold">false</span></div>
+                <div><span class="text-bold">data-spinner="false"</span><span class="text-blue"> - Default: </span><span class="text-bold">true</span></div>
+                <div><span class="text-bold">data-readonly="true"</span><span class="text-blue"> - Default: </span><span class="text-bold">false</span></div>
+                <div><span class="text-bold">data-format="#,###"</span></div>
+                <div><span class="text-bold">data-min="[INT]"</span></div>
+                <div><span class="text-bold">data-max="[INT]"</span></div>
+                <div><span class="text-bold">data-cascadefrom="[ID]"/&gt;</span></div>
+            </div>
+        </div>
+        <hr />
+        <div class="col-md-offset-1 col-md-10">
+            <div>
+                <h4 class="text-green">Initialize control</h4>
+                <div>
+                    <input type="text" id="Number" name="Number" data-wg-ui="kendoNumericTextBox" data-init-ui="false" />
+                </div>
+                <br />
+                <div class="well">
+                    <div class="text-bold">&lt;input type="text" id="Number" name="Number"</div>
+                    <div class="indent-tab"><span class="text-bold">data-wg-ui="kendoNumericTextBox"</span></div>
+                    <div class="indent-tab"><span class="text-bold">data-init-ui="<span class="text-red">false</span>"/&gt;</span></div>
+                </div>
+                <div class="text-bold well">
+                    <div>wg('#Number').numerictextbox(c => c</div>
+                    <div class="indent-tab">.spinner(true)</div>
+                    <div>)</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/scripts/ts/modules/numerictextbox.js"></script>
+}

@@ -1,0 +1,57 @@
+﻿[
+  {
+    "width": 30,
+    "title": " ",
+    "sortable": false,
+    "filterable": false,
+    "groupable": false,
+    "locked": true,
+    "lockable": false,
+    "menu": false,
+    "template": {
+      "data-uid": "#: Id #",
+      "type": "checkbox",
+      "name": "checkedRecords",
+      "value": "Country",
+      "tag": "input"
+    },
+    "headerTemplate": "<input type=\"checkbox\" data-action=\"checkall\" />",
+    "headerAttributes": {
+      "data-menu": false
+    }
+  },
+  {
+    "field": "Name",
+    "title": "Country",
+    "width": 400,
+    "locked": true,
+    "template": {
+      "tag": "a",
+      "text": "#: Name #",
+      "data-uid": "#: Id #",
+      "data-contextmenu": "ContextMenu"
+    }
+  },
+  {
+    "field": "Code",
+    "title": "Code"
+  },
+  {
+    "field": "Id",
+    "title": "Region",
+    "width": 200,
+    "template": {
+          "data-uid": "#: Id #",
+          "data-wg-ui": "kendoGrid",
+          "data-grid": "RegionGrid",
+          "data-view": "Grid/Region",
+          "text": "View Details",
+          "tag": "a"
+    }
+  },
+  {
+    "field": "Status",
+    "title": "Status",
+    "width": 200
+  }
+]
